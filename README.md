@@ -8,6 +8,16 @@ This repository contains the governing document and protocols of the Human Infor
 - Glossary
 - Protocol Overview
 - [To be added] Visual Diagrams
+- 
+## 💬 Feedback & Contributions
+
+This project invites interdisciplinary insight. We welcome thoughtful discussion, technical feedback, and ethical inquiry.
+
+You can contribute in the following ways:
+
+- 👉 [Start a Discussion](https://github.com/1aaronlkking/ethonomic-governing-doc/discussions)
+- 🐛 [File an Issue](https://github.com/1aaronlkking/ethonomic-governing-doc/issues)
+- 🔁 Suggest edits via Pull Request (for developers and editors)
 
 ## License
 
